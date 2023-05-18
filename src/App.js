@@ -11,6 +11,7 @@ function App() {
       <Header />
       <main>
         <Meals />
+        {/* New user comment */}
       </main>
     </CartProvider>
   );
