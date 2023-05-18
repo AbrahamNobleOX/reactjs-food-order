@@ -22,7 +22,6 @@ function App() {
       <Header onShowCart={showCartHandler} />
       <main>
         <Meals />
-        {/* restored owner */}
       </main>
     </CartProvider>
   );
