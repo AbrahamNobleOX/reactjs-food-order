@@ -22,7 +22,7 @@ function App() {
       <Header onShowCart={showCartHandler} />
       <main>
         <Meals />
-        {/* Hello */}
+        {/* restored owner */}
       </main>
     </CartProvider>
   );
